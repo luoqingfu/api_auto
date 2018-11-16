@@ -1,0 +1,8 @@
+2018-11-16 11:01:20,137 - ConfigHttp - INFO - 请求URL：https://live.e-ducation.cn/api/account/login
+2018-11-16 11:01:20,137 - ConfigHttp - INFO - 请求data：{'device_type': 'web', 'target_type': '1', 'target': '13226349780', 'password': '123456'}
+2018-11-16 11:01:20,137 - ConfigHttp - INFO - 请求类型为：post
+2018-11-16 11:01:20,487 - lonin_token - INFO - token值：43668dd2e9a600e99427e041bfaddadca6ce91216ae48430ea2b4ae5ddf87fa5
+2018-11-16 11:01:20,487 - ConfigHttp - INFO - 请求headers：{'Authorization': 'JWT 43668dd2e9a600e99427e041bfaddadca6ce91216ae48430ea2b4ae5ddf87fa5'}
+2018-11-16 11:01:20,488 - ConfigHttp - INFO - 请求URL：https://live.e-ducation.cn/api/user/getUserInfo
+2018-11-16 11:01:20,488 - ConfigHttp - INFO - 请求data：{'device_type': 'web', 'token': '43668dd2e9a600e99427e041bfaddadca6ce91216ae48430ea2b4ae5ddf87fa5'}
+2018-11-16 11:01:20,488 - ConfigHttp - INFO - 请求类型为：post

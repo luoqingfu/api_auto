@@ -6,9 +6,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from datetime import datetime as dt
 
-
-import readConfig
-from Common import logger
+from Common import logger, readConfig
 from Common.HTMLTestRunner import HTMLTestRunner
 
 log = logger.Logger("run").get_logger()
